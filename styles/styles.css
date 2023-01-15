@@ -65,3 +65,48 @@ nav{
     height: auto;
     margin-left: 170px;
 }
+/* Section 1 */
+.section1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 130px 301px;
+}
+.img{
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+}
+/* .s1-images{
+    display: grid;
+    grid-template-columns: 340px 60px;
+    width: 50%;
+    margin-left: 190px;
+    gap: 24px;
+} */
+.s1-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+/* section1 Title design */
+.s1-title{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #131313;
+
+}
+.txt-design1{
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 53px;
+    color: #727272;
+}
+.txt-design2{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #FF900E;
+}
