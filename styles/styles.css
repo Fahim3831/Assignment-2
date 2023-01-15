@@ -122,6 +122,41 @@ nav{
 /* Section2 Design */
 .section2{
     display: flex;
+    margin: 130px 240px;
+}
+.s2-sub-title{
+    margin: 50px 0 10px;
+}
+.s2-image{
+    width: 500px;
+    height: auto;
+    margin-left: 54px;
+    margin-right: 140px;
+    margin-bottom: 120px;
+    position: relative;
+}
+/* Experience Div */
+.experience-div{
+    background: #FF900E;
+    border-radius: 8px;
+    width: 300px;
+    height: 150px;
+    position: absolute;
+}
+.experience-div > h1{
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 70px;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+.experience-div > h4{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
 }
 
 /* Section3 Design */
