@@ -1,8 +1,8 @@
-/* @font-face {
+@font-face {
     font-family: CustomFonts;
     src: url(/Font/Work_Sans/WorkSans-Italic-VariableFont_wght.ttf);
     src: url(/Font/Work_Sans/static/WorkSans-ExtraBoldItalic.ttf);
-} */
+}
 *{
     box-sizing: border-box;
     margin: 0 ;
